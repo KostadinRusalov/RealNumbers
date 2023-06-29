@@ -1,0 +1,12 @@
+/Users/macintoshhd/Projects/RealNumbers/RealNumbers/bin/Debug/RealNumbers.exe
+/Users/macintoshhd/Projects/RealNumbers/RealNumbers/bin/Debug/RealNumbers.pdb
+/Users/macintoshhd/Projects/RealNumbers/RealNumbers/obj/Debug/RealNumbers.csprojAssemblyReference.cache
+/Users/macintoshhd/Projects/RealNumbers/RealNumbers/obj/Debug/RealNumbers.exe
+/Users/macintoshhd/Projects/RealNumbers/RealNumbers/obj/Debug/RealNumbers.pdb
+/Users/macintoshhd/Projects/RealNumbers/RealNumbers/obj/Debug/RealNumbers.csproj.CoreCompileInputs.cache
+/Users/kostadin/Projects/RealNumbers/RealNumbers/bin/Debug/RealNumbers.exe
+/Users/kostadin/Projects/RealNumbers/RealNumbers/bin/Debug/RealNumbers.pdb
+/Users/kostadin/Projects/RealNumbers/RealNumbers/obj/Debug/RealNumbers.csprojAssemblyReference.cache
+/Users/kostadin/Projects/RealNumbers/RealNumbers/obj/Debug/RealNumbers.csproj.CoreCompileInputs.cache
+/Users/kostadin/Projects/RealNumbers/RealNumbers/obj/Debug/RealNumbers.exe
+/Users/kostadin/Projects/RealNumbers/RealNumbers/obj/Debug/RealNumbers.pdb
